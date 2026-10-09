@@ -1,0 +1,8 @@
+{
+  "project": "multimodal-ai-health-risk-suite",
+  "browser": "Chromium",
+  "desktop": "1440x1000",
+  "mobile": "390x844",
+  "status": "passed",
+  "javascript_errors": []
+}

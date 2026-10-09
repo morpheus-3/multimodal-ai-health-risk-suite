@@ -1,0 +1,28 @@
+{
+  "provenance": "SYNTHETIC SOFTWARE FIXTURES; not real-world evaluation",
+  "output": {
+    "synthetic": true,
+    "rows": 160,
+    "targets": {
+      "cardiovascular": {
+        "roc_auc": 0.8463541666666667,
+        "brier": 0.15626272774950195,
+        "held_out_rows": 40
+      },
+      "diabetes": {
+        "roc_auc": 0.9772727272727273,
+        "brier": 0.0943389000296028,
+        "held_out_rows": 40
+      }
+    },
+    "features": [
+      "age",
+      "bmi",
+      "systolic_bp",
+      "glucose",
+      "cholesterol",
+      "smoker",
+      "activity_minutes"
+    ]
+  }
+}
